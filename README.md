@@ -2,8 +2,14 @@
 
 ## Общая информация
 
-- [Официальный сайт](https://meshtastic.org/)
+### Официальные ресурсы
+- [Официальный сайт](https://meshtastic.org/) и [Документация](https://meshtastic.org/docs/)
 - [WEB флешер (прошивка устройств из браузера)](https://flasher.meshtastic.org/)
+- [GitHub](https://github.com/meshtastic)
+
+### Не официальные ресурсы
+- [Общероссийская группа telegram](https://t.me/meshtastic_russia) и [Ярославская группа telegram](https://t.me/meshtastic_yar)
+- [Вэб флешер (прошивки с поддержкой кириллицы)](https://mrekin.duckdns.org/flasher/)
 
 ## Базовые настройки
 
