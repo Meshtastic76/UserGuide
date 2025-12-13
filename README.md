@@ -11,6 +11,12 @@
 - [Общероссийская группа telegram](https://t.me/meshtastic_russia) и [Ярославская группа telegram](https://t.me/meshtastic_yar)
 - [Вэб флешер (прошивки с поддержкой кириллицы)](https://mrekin.duckdns.org/flasher/)
 
+### Карты нод
+- [Meshmap](https://meshmap.net/)
+- [Meshtastic.taubete](https://meshtastic.taubetele.com/?lat=57.657360&lng=39.898794&zoom=10.445443006785743****)
+- [Meshtastic.liamcottle](https://meshtastic.liamcottle.net/?lat=57.672757492776576&lng=399.8863615622551&zoom=10#****)
+- [Meshtastic site planner - для прогнозирования дальности радиосвязи](https://site.meshtastic.org/)
+
 ## Базовые настройки
 
 ### LoRa
