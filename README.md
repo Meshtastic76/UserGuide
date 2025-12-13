@@ -8,13 +8,13 @@
 
 ## Официальные ресурсы
 - [Официальный сайт](https://meshtastic.org/) и [Документация](https://meshtastic.org/docs/)
-- [Вэб флешер (прошивка устройств из браузера)](https://flasher.meshtastic.org/)
+- [Вэб флешер](https://flasher.meshtastic.org/) прошивка устройств из браузера
 - [GitHub](https://github.com/meshtastic)
 
 ## Не официальные ресурсы
 - [Mesh Metrics](https://dash.mesh76.ru/) - панель мониторинга со статистикой Ярославской сети (https://t.me/iHaskin)
 - [Общероссийская группа telegram](https://t.me/meshtastic_russia) и [Ярославская группа telegram](https://t.me/meshtastic_yar)
-- [Вэб флешер](https://mrekin.duckdns.org/flasher/) с поддержкой кириллицы
+- [Вэб флешер](https://mrekin.duckdns.org/flasher/) прошивка устройств из браузера с поддержкой кириллицы
 - [Meshworks wiki](https://wiki.meshworks.ru/)
 
 ## Карты нод
