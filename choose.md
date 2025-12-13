@@ -7,6 +7,8 @@
 | [Heltec](https://heltec.org/) |
 | [Lilygo](https://lilygo.cc/) |
 
+Можно купить на маркетплейсах OZON / Yandex / Aliexpress / WB
+
 В разработке и будет дополняться...
 
 ## ⏩ Следующий шаг
