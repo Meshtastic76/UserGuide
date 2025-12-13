@@ -14,11 +14,11 @@
 - [Meshworks wiki](https://wiki.meshworks.ru/)
 
 ### Карты нод
-- [Карта и лог сообщений общего канала в Ярославле](https://map.onemesh.ru/?lat=57.65422767078807&lng=39.84535217285157&zoom=11)
+- [Onemesh](https://map.onemesh.ru/?lat=57.65422767078807&lng=39.84535217285157&zoom=11) - карта и лог сообщений общего канала в Ярославле
 - [Meshmap](https://meshmap.net/)
-- [Meshtastic.taubete](https://meshtastic.taubetele.com/?lat=57.657360&lng=39.898794&zoom=10.445443006785743****)
-- [Meshtastic.liamcottle](https://meshtastic.liamcottle.net/?lat=57.672757492776576&lng=399.8863615622551&zoom=10#****)
-- [Meshtastic site planner - для прогнозирования дальности радиосвязи](https://site.meshtastic.org/)
+- [Taubete](https://meshtastic.taubetele.com/?lat=57.657360&lng=39.898794&zoom=10.445443006785743****)
+- [Liamcottle](https://meshtastic.liamcottle.net/?lat=57.672757492776576&lng=399.8863615622551&zoom=10#****)
+- [Site planner](https://site.meshtastic.org/) - для прогнозирования дальности радиосвязи
 
 ## Базовые настройки
 
