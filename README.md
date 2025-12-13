@@ -1,9 +1,10 @@
 # Meshtastic Ярославль
 
 ## Первые шаги
-1. [Выбор устройства](/choose.md)
-2. [Установка и настройка](/configure.md)
-3.  [Известные проблемы](/issues.md)
+1. [Выбор устройства](choose.md)
+2. [Прошивка](install.md)
+3. [настройка](configure.md)
+4. [Известные проблемы](issues.md)
 
 ## Официальные ресурсы
 - [Официальный сайт](https://meshtastic.org/) и [Документация](https://meshtastic.org/docs/)
