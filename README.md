@@ -22,4 +22,4 @@
 - [Liamcottle](https://meshtastic.liamcottle.net/?lat=57.672757492776576&lng=399.8863615622551&zoom=10#****)
 - [Site planner](https://site.meshtastic.org/) - для прогнозирования дальности радиосвязи
 
-[Открыть как сайт](https://meshtastic76.github.io/UserGuide/) (исходный код доступен на https://github.com/Meshtastic76/UserGuide/)
+[Открыть как сайт](https://meshtastic76.github.io/UserGuide/) (для перехода с GitHub [исходный код](https://github.com/Meshtastic76/UserGuide/))
