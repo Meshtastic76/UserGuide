@@ -8,9 +8,9 @@
 - [GitHub](https://github.com/meshtastic)
 
 ### Не официальные ресурсы
-- [Mesh Metrics - панель мониторинга со статистикой Ярославской сети](https://dash.mesh76.ru/) (https://t.me/iHaskin)
+- [Mesh Metrics](https://dash.mesh76.ru/) - панель мониторинга со статистикой Ярославской сети (https://t.me/iHaskin)
 - [Общероссийская группа telegram](https://t.me/meshtastic_russia) и [Ярославская группа telegram](https://t.me/meshtastic_yar)
-- [Вэб флешер (прошивки с поддержкой кириллицы)](https://mrekin.duckdns.org/flasher/)
+- [Вэб флешер](https://mrekin.duckdns.org/flasher/) с поддержкой кириллицы
 - [Meshworks wiki](https://wiki.meshworks.ru/)
 
 ### Карты нод
