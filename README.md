@@ -2,6 +2,8 @@
 
 ## Общая информация
 
+[Настройка ноды](/configure.md)
+
 ### Официальные ресурсы
 - [Официальный сайт](https://meshtastic.org/) и [Документация](https://meshtastic.org/docs/)
 - [WEB флешер (прошивка устройств из браузера)](https://flasher.meshtastic.org/)
