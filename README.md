@@ -8,11 +8,13 @@
 - [GitHub](https://github.com/meshtastic)
 
 ### Не официальные ресурсы
+- [Mesh Metrics - панель мониторинга со статистикой Ярославской сети](https://dash.mesh76.ru/) поднял "Илья Андреевич d(^^,)b" (в тг @iHaskin)
 - [Общероссийская группа telegram](https://t.me/meshtastic_russia) и [Ярославская группа telegram](https://t.me/meshtastic_yar)
 - [Вэб флешер (прошивки с поддержкой кириллицы)](https://mrekin.duckdns.org/flasher/)
 - [Meshworks wiki](https://wiki.meshworks.ru/)
 
 ### Карты нод
+- [Карта и лог сообщений общего канала в Ярославле](https://map.onemesh.ru/?lat=57.65422767078807&lng=39.84535217285157&zoom=11)
 - [Meshmap](https://meshmap.net/)
 - [Meshtastic.taubete](https://meshtastic.taubetele.com/?lat=57.657360&lng=39.898794&zoom=10.445443006785743****)
 - [Meshtastic.liamcottle](https://meshtastic.liamcottle.net/?lat=57.672757492776576&lng=399.8863615622551&zoom=10#****)
