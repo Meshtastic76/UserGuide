@@ -8,7 +8,7 @@
 
 ## Официальные ресурсы
 - [Официальный сайт](https://meshtastic.org/) и [Документация](https://meshtastic.org/docs/)
-- [WEB флешер (прошивка устройств из браузера)](https://flasher.meshtastic.org/)
+- [Вэб флешер (прошивка устройств из браузера)](https://flasher.meshtastic.org/)
 - [GitHub](https://github.com/meshtastic)
 
 ## Не официальные ресурсы
