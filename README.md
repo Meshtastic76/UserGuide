@@ -18,7 +18,7 @@
 - [Meshworks wiki](https://wiki.meshworks.ru/)
 
 ## Карты нод
-- [Onemesh](https://map.onemesh.ru/?lat=57.65422767078807&lng=39.84535217285157&zoom=11) - карта и лог сообщений общего канала в Ярославле
+- [Onemesh](https://map.onemesh.ru/?lat=57.65422767078807&lng=39.84535217285157&zoom=11) - карта и лог сообщений общего канала в Ярославле (не забудьте выбрать топик msh/RU/YAR, в левом верхнем углу экрана)
 - [Meshmap](https://meshmap.net/)
 - [Taubete](https://meshtastic.taubetele.com/?lat=57.657360&lng=39.898794&zoom=10.445443006785743****)
 - [Liamcottle](https://meshtastic.liamcottle.net/?lat=57.672757492776576&lng=399.8863615622551&zoom=10#****)
