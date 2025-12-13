@@ -1,5 +1,10 @@
 # Meshtastic Ярославль
 
+## Общая информация
+
+- [Официальный сайт](https://meshtastic.org/)
+- [WEB флешер (прошивка устройств из браузера)](https://flasher.meshtastic.org/)
+
 ## Базовые настройки
 
 ### LoRa
