@@ -28,4 +28,4 @@
 - [Site planner](https://site.meshtastic.org/) - для прогнозирования дальности радиосвязи
 
 ## 👨🏻‍💻 Служебное
-[Открыть как сайт](https://meshtastic76.github.io/UserGuide/) (для перехода с GitHub [исходный код](https://github.com/Meshtastic76/UserGuide/))
+[Открыть как сайт](https://meshtastic76.github.io/UserGuide/) (для перехода с GitHub - [исходный код](https://github.com/Meshtastic76/UserGuide/))
