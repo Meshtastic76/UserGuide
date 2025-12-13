@@ -8,7 +8,7 @@
 - [GitHub](https://github.com/meshtastic)
 
 ### Не официальные ресурсы
-- [Mesh Metrics - панель мониторинга со статистикой Ярославской сети](https://dash.mesh76.ru/) поднял "Илья Андреевич d(^^,)b" (в тг @iHaskin)
+- [Mesh Metrics - панель мониторинга со статистикой Ярославской сети](https://dash.mesh76.ru/) (https://t.me/iHaskin)
 - [Общероссийская группа telegram](https://t.me/meshtastic_russia) и [Ярославская группа telegram](https://t.me/meshtastic_yar)
 - [Вэб флешер (прошивки с поддержкой кириллицы)](https://mrekin.duckdns.org/flasher/)
 - [Meshworks wiki](https://wiki.meshworks.ru/)
