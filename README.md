@@ -12,7 +12,7 @@
 - [GitHub](https://github.com/meshtastic)
 
 ## Не официальные ресурсы
-- [Mesh Metrics](https://dash.mesh76.ru/) - панель мониторинга со статистикой Ярославской сети (https://t.me/iHaskin)
+- [Mesh Metrics](https://dash.mesh76.ru/) - панель мониторинга со статистикой Ярославской сети (Запустил: https://t.me/iHaskin)
 - [Общероссийская группа telegram](https://t.me/meshtastic_russia) и [Ярославская группа telegram](https://t.me/meshtastic_yar)
 - [Вэб флешер](https://mrekin.duckdns.org/flasher/) прошивка устройств из браузера с поддержкой кириллицы
 - [Meshworks wiki](https://wiki.meshworks.ru/)
