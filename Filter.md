@@ -39,6 +39,7 @@ https://aliexpress.ru/item/1005005318548502.html - SMD-вариант для п�
 
 <br>![](assets/Filter/2.jpg)
 <br>![](assets/Filter/3.jpg)
+
 **2. Керамический фильтр**
 
 **Плюсы:**
