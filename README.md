@@ -12,7 +12,6 @@
 
 ## 🐻 Региональные ресурсы
 - [Ярославская группа в telegram](https://t.me/meshtastic_yar)
-- [MeshMetrics](https://dash.mesh76.ru/) - панель мониторинга (Запустил: https://t.me/iHaskin)
 
 ## 🌎 Официальные ресурсы
 - [Официальный сайт](https://meshtastic.org/) и [Документация](https://meshtastic.org/docs/)
